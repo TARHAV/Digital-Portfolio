@@ -13,7 +13,8 @@ title: Project List
 - [Research Project](researchproject.md)
   
 ---  
-  I left this as a remnent and reminder for myself!
+I left this as a remnent and reminder for myself!
+  
 **Week 1: Welcome!** (August 18-21)  
 - Read/watch/listen to everything in the Welcome! module  
 - Complete Academic Activity Verification by 11:59pm **Thursday, August 21**
