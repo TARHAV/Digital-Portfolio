@@ -1,17 +1,9 @@
 ---
 layout: default
-title: Course Schedule & Project List
+title: Project List
 ---
 
 {% include nav.html %}
-
----
-# Course Schedule 
-
-
-*This page was created using [Markdown](https://www.markdownguide.org/cheat-sheet/)—another useful skill for technical writers or those who might need to write technical documentation.
-
-The official syllabus is available [in Webcourses.](https://webcourses.ucf.edu/courses/1488031/external_tools/374802)* 
 
 ---
 ## **Sample Work (links to class projects)**
@@ -21,7 +13,7 @@ The official syllabus is available [in Webcourses.](https://webcourses.ucf.edu/c
 - [Research Project](researchproject.md)
   
 ---  
-  
+  I left this as a remnent and reminder for myself!
 **Week 1: Welcome!** (August 18-21)  
 - Read/watch/listen to everything in the Welcome! module  
 - Complete Academic Activity Verification by 11:59pm **Thursday, August 21**
